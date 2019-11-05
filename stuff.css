@@ -1,0 +1,189 @@
+.border-stuff{
+    border: 1px solid rgb(224, 224, 224);
+    border-top: 3px solid #1b6a6f !important;
+}
+.stuff .icon img{
+    width: 30px;
+    opacity: 0.8;
+}
+.stuff .icon img:hover{
+    cursor: pointer;
+    opacity: 1;
+}
+.stuff .nav-link{
+    background-color: #fff !important;
+}
+.stuff .nav-link img{
+    opacity: 0.6;
+}
+.stuff .nav-link img:hover{
+    /* border: 1px solid #e0e0e0;
+    border-radius: 5px; */
+    box-shadow: 0 0 10px #e0e0e0;
+    opacity: 1;
+}
+.stuff .nav-link:hover{
+    background-color: #fff !important;
+}
+.info {
+    /* box-shadow: 0 3px 10px #e0e0e0; */
+    border-bottom: 1px solid #e0e0e0;
+}
+.info h3{
+    font-size: 1.3rem;
+    color: #000;
+}
+.info h4{
+    font-size: 0.8rem;
+    color: #000;
+}
+.info span{
+    font-size: 0.8rem;
+    color: rgb(87, 85, 85);
+}
+.color h4{
+    color: #000;
+    font-size: 1rem;
+}
+.color div{
+    background-color: #1b6a6f;
+    width: 15px;
+    height: 15px;
+}
+.color h5{
+    color: #000;
+    font-size: 1rem;
+}
+.price h4{
+    font-size: 1rem;
+}
+.price h5{
+    font-size: 1rem;
+    color: #1b6a6f;
+}
+.price img{
+    width: 15px;
+}
+.price input{
+    width: 30px;
+    border: 0px;
+}
+.price button{
+    background-color: #1b6a6f;
+    border: 2px solid #1b6a6f;
+    border-radius: 0px;
+    font-size: 0.8rem;
+    transition: all 0.3s;
+    color: #fff;
+    opacity: 0.6;
+}
+.price .shopping{
+    background-color: transparent;
+    border: 2px solid #1b6a6f;
+    color: #1b6a6f;
+    opacity: 1;
+}
+.price button:hover{
+    background-color: #1b6a6f;
+    border: 2px solid #1b6a6f;
+    color: #fff;
+    font-size: 0.8rem;
+    opacity: 1;
+}
+
+.properties{
+    border-top: 1px solid #e0e0e0;
+}
+.properties h4{
+    font-size: 1rem;
+}
+.properties ul li{
+    font-size: 0.9rem;
+    list-style-type: disc;
+}
+/* stuff service */
+.stuffservice{
+    border-top: 1px solid #e0e0e0;
+}
+.stuffservice img{
+    width: 50px;
+    height: 50px;
+}
+.stuffservice h3{
+    font-size: 0.7rem;
+    color: rgb(163, 162, 162);
+}
+.stuffservice h4{
+    font-size: 0.6rem;
+    color: rgb(163, 162, 162);
+    opacity: 0.8;
+}
+/* description */
+.desctab a{
+    border-top-width: 2px !important;
+    color: #000 !important;
+}
+.desctab a:focus , .desctab a:hover{
+    border-top: 2px solid #1b6a6f !important;
+}
+
+.description{
+    border: 1px solid #e0e0e0;
+    border-top: 1px solid transparent !important;
+}
+
+.description p{
+    font-size: 0.9rem;
+    color: rgb(87, 87, 87);
+    line-height: 25px;
+}
+.description ul{
+    list-style-type: none;
+}
+.description ul li{
+    border-bottom: 1px solid #e0e0e0;
+}
+.description ul li a{
+    border-bottom: 1px solid #d7ac00;
+    color: #000;
+}
+/* comment */
+.comment h4{
+    font-size: 1.5rem;
+}
+.comment h5{
+    font-size: 1rem;
+}
+.comment .star img{
+    width: 20px;
+}
+.commentcard{
+    box-shadow: 0 0 10px #eeecec;
+}
+.commentcard h4{
+    font-size: 0.9rem;
+}
+.commentcard h5{
+    font-size: 0.8rem;
+    border-bottom: 1px solid #e0e0e0;
+}
+form {
+    color:#000000 ;
+}
+form input , textarea{
+    /* background-color: #181616!important;
+    border: 1px solid #367daf !important; */
+}
+form label{
+    font-size: 0.8rem;
+
+}
+form button{
+    font-size: 0.8rem !important;
+    background-color:#1b6a6f !important;
+    color: #fff !important;
+}
+form button:hover{
+    background-color:#d7ac00 !important;
+    color: #fff !important;
+}
